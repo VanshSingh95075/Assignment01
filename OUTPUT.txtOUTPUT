@@ -1,0 +1,28 @@
+#QUESTION1
+Enter 1st number : Enter 2nd number : Enter 3rd number : Average of the numbers :  55.666666666666664
+The thread 'MainThread' (0x1) has exited with code 0 (0x0).
+The program 'python.exe' has exited with code 0 (0x0).
+
+#QUESTION3
+Enter the name of the person : Enter the age of the person : Enter the marks obatined by the person : Enter the name of the course peson wants to take : Enter the SID of the students : Information about the person : ['vansh singh', 19, 90.0, 'computer science', 21102107]
+The thread 'MainThread' (0x1) has exited with code 0 (0x0).
+The program 'python.exe' has exited with code 0 (0x0).
+
+
+#QUESTION4
+Enter the marks of 1st student : Enter the marks of 2nd student : Enter the marks of 3rd student : Enter the marks of 4th student : Enter the marks of 5th student : Marks of the students :  [98, 97, 96, 95, 94]
+Marks of the students in the sorted manner :  [94, 95, 96, 97, 98]
+The thread 'MainThread' (0x1) has exited with code 0 (0x0).
+The program 'python.exe' has exited with code 0 (0x0).
+
+#QUESTION5
+['Red', 'Green', 'White', 'Pink', 'Yellow']
+['Red', 'Green', 'White', 'Purple', 'Purple', 'Yellow']
+The thread 'MainThread' (0x1) has exited with code 0 (0x0).
+The program 'python.exe' has exited with code 0 (0x0).
+
+#QUESTION2
+Enter Gross Income : Enter the number of dependents :Tax to be paid :  5000.0
+The thread 'MainThread' (0x1) has exited with code 0 (0x0).
+The program 'python.exe' has exited with code 0 (0x0).
+
